@@ -21,7 +21,8 @@
     "redux": "4.0.4",
     "redux-thunk": "2.3.0",
     "reselect": "4.0.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "npm-run-all": "4.1.5"
   },
   "devDependencies": {
     "@babel/core": "7.7.4",
@@ -50,7 +51,6 @@
     "json-server": "0.15.1",
     "mini-css-extract-plugin": "0.8.0",
     "node-fetch": "2.6.0",
-    "npm-run-all": "4.1.5",
     "postcss-loader": "3.0.0",
     "react-test-renderer": "16.12.0",
     "react-testing-library": "8.0.1",
